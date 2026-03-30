@@ -2,9 +2,9 @@
 
 # Johannes Moreno
 
-**Software Developer | Colombia**
+**Full Stack Software Developer | Colombia**
 
-Desarrollador de software con experiencia en aplicaciones web full stack, integraciones empresariales y automatizacion de procesos. Apasionado por las arquitecturas limpias, los patrones de diseno y la mejora continua.
+Desarrollador de software con experiencia en aplicaciones web y moviles full stack, integraciones empresariales y automatizacion de procesos. Apasionado por las arquitecturas limpias, los patrones de diseno y la mejora continua.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johannes-moreno-89ab1671)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/johannesmorenot)
@@ -16,11 +16,11 @@ Desarrollador de software con experiencia en aplicaciones web full stack, integr
 
 ### Sobre mi
 
-- Desarrollo aplicaciones web con **React**, **Node.js**, **Java** y **TypeScript**
+- Desarrollo aplicaciones web y moviles con **React**, **Angular**, **Node.js**, **Java** y **TypeScript**
 - Experiencia en **ERP Odoo** (desarrollo de modulos, migraciones, despliegues con Docker)
-- Integraciones con **APIs REST**, **LDAP**, **PostgreSQL** y servicios en la nube
+- Integraciones con **APIs REST**, **LDAP**, **Supabase**, **Firebase**, **Pusher** y servicios en la nube
+- Bots y automatizaciones con **Python** (Telegram, scraping, OCR)
 - Enfoque en **patrones de diseno**, **arquitectura de software** y buenas practicas
-- Siempre aprendiendo y explorando nuevas tecnologias
 
 ---
 
@@ -29,14 +29,21 @@ Desarrollador de software con experiencia en aplicaciones web full stack, integr
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 
 **Backend**
 
@@ -47,72 +54,30 @@ Desarrollador de software con experiencia en aplicaciones web full stack, integr
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white)
 
-**Bases de datos & DevOps**
+**Bases de datos**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**DevOps & Herramientas**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**ERP & Testing**
-
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 
----
+**ERP**
 
-### Proyectos institucionales
-
-> Plataformas de impacto ciudadano desarrolladas para la **Alcaldia de Bogota** *(codigo fuente reservado)*
-
-<table>
-<tr>
-<td align="center" width="25%">
-<a href="https://tic.bogota.gov.co/">
-<img src="https://img.shields.io/badge/Bogota_Capital_Digital-0052CC?style=for-the-badge&logo=city&logoColor=white" alt="Capital Digital"/>
-</a>
-<br/>
-<sub><b>Transformacion digital</b></sub>
-<br/>
-<sub>Plataforma de gobierno digital y TIC para Bogota</sub>
-</td>
-<td align="center" width="25%">
-<a href="https://bogota.gov.co/">
-<img src="https://img.shields.io/badge/Gobierno_Abierto-2E8B57?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Gobierno Abierto"/>
-</a>
-<br/>
-<sub><b>Transparencia</b></sub>
-<br/>
-<sub>Portal de gobierno abierto y datos publicos</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<a href="https://bogota.gov.co/toneladas-que-unen">
-<img src="https://img.shields.io/badge/Toneladas_que_Unen-E44D26?style=for-the-badge&logo=handshake&logoColor=white" alt="Toneladas que Unen"/>
-</a>
-<br/>
-<sub><b>Impacto social</b></sub>
-<br/>
-<sub>Plataforma de donaciones y solidaridad ciudadana</sub>
-</td>
-<td align="center" width="25%">
-<a href="https://bogota.gov.co/servicios/inicio">
-<img src="https://img.shields.io/badge/Portal_Servicios-6A0DAD?style=for-the-badge&logo=contactlesspayment&logoColor=white" alt="Servicios Ciudadano"/>
-</a>
-<br/>
-<sub><b>Servicios al ciudadano</b></sub>
-<br/>
-<sub>Portal unificado de tramites y servicios</sub>
-</td>
-</tr>
-</table>
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
 
 ---
 
@@ -120,11 +85,12 @@ Desarrollador de software con experiencia en aplicaciones web full stack, integr
 
 | Proyecto | Descripcion | Tech |
 |----------|-------------|------|
-| [**refugio**](https://github.com/iDevelop25/refugio) | App web de inspiracion biblica con patrones Singleton y Observer | Node.js, Express |
-| [**ccode**](https://github.com/iDevelop25/ccode) | CLI de contexto persistente para desarrollo asistido por IA | TypeScript |
-| [**gobierno-abierto-bogota**](https://github.com/iDevelop25/gobierno-abierto-bogota) | Prototipo de Gobierno Abierto Bogota | React, TypeScript |
+| [**refugio**](https://github.com/iDevelop25/refugio) | App de inspiracion biblica con patrones Singleton y Observer | Node.js, Express |
+| [**ccode**](https://github.com/iDevelop25/ccode) | CLI de contexto persistente para desarrollo asistido por IA | TypeScript, Commander |
+| [**gobierno-abierto-bogota**](https://github.com/iDevelop25/gobierno-abierto-bogota) | Prototipo Gobierno Abierto Bogota | React, TypeScript, Vite |
+| [**c4systemexpo**](https://github.com/iDevelop25/c4systemexpo) | App movil con charts, Firebase y Supabase | React Native, Expo |
 | [**product-fake-api-integration**](https://github.com/iDevelop25/product-fake-api-integration) | Modulo Odoo 17 para importar productos desde API | Python, Odoo |
-| [**odoo_v16_docker**](https://github.com/iDevelop25/odoo_v16_docker) | Instancia Odoo 16 completa en Docker | Docker |
+| [**odoo_v16_docker**](https://github.com/iDevelop25/odoo_v16_docker) | Instancia Odoo 16 completa en Docker | Docker, PostgreSQL |
 
 ---
 
