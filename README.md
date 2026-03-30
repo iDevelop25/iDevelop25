@@ -144,8 +144,10 @@ Desarrollador de software con experiencia en aplicaciones web y moviles full sta
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=idevelop25&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idevelop25&layout=compact&theme=github_dark&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idevelop25&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idevelop25&theme=default" />
+</picture>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=idevelop25&theme=github-dark-blue&hide_border=true" />
 
