@@ -111,7 +111,7 @@ Desarrollador de software con experiencia en aplicaciones web y moviles full sta
 <img src="https://img.shields.io/badge/Toneladas_que_Unen-E85D04?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <br/>
-<sub>Plataforma social de recoleccion y donacion de alimentos</sub>
+<sub>Plataforma ciudadana para la disposicion responsable de residuos voluminosos en Ecopuntos</sub>
 </td>
 <td align="center" width="50%">
 <a href="https://bogota.gov.co/servicios/inicio" target="_blank" rel="noopener noreferrer">
