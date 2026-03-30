@@ -67,6 +67,55 @@ Desarrollador de software con experiencia en aplicaciones web full stack, integr
 
 ---
 
+### Proyectos institucionales
+
+> Plataformas de impacto ciudadano desarrolladas para la **Alcaldia de Bogota** *(codigo fuente reservado)*
+
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://tic.bogota.gov.co/">
+<img src="https://img.shields.io/badge/Bogota_Capital_Digital-0052CC?style=for-the-badge&logo=city&logoColor=white" alt="Capital Digital"/>
+</a>
+<br/>
+<sub><b>Transformacion digital</b></sub>
+<br/>
+<sub>Plataforma de gobierno digital y TIC para Bogota</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://bogota.gov.co/">
+<img src="https://img.shields.io/badge/Gobierno_Abierto-2E8B57?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Gobierno Abierto"/>
+</a>
+<br/>
+<sub><b>Transparencia</b></sub>
+<br/>
+<sub>Portal de gobierno abierto y datos publicos</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<a href="https://bogota.gov.co/toneladas-que-unen">
+<img src="https://img.shields.io/badge/Toneladas_que_Unen-E44D26?style=for-the-badge&logo=handshake&logoColor=white" alt="Toneladas que Unen"/>
+</a>
+<br/>
+<sub><b>Impacto social</b></sub>
+<br/>
+<sub>Plataforma de donaciones y solidaridad ciudadana</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://bogota.gov.co/servicios/inicio">
+<img src="https://img.shields.io/badge/Portal_Servicios-6A0DAD?style=for-the-badge&logo=contactlesspayment&logoColor=white" alt="Servicios Ciudadano"/>
+</a>
+<br/>
+<sub><b>Servicios al ciudadano</b></sub>
+<br/>
+<sub>Portal unificado de tramites y servicios</sub>
+</td>
+</tr>
+</table>
+
+---
+
 ### Proyectos destacados
 
 | Proyecto | Descripcion | Tech |
