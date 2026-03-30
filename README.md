@@ -91,14 +91,14 @@ Desarrollador de software con experiencia en aplicaciones web y moviles full sta
 <table>
 <tr>
 <td align="center" width="50%">
-<a href="https://tic.bogota.gov.co/">
+<a href="https://tic.bogota.gov.co/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Bogot%C3%A1_Capital_Digital-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <br/>
 <sub>Plataforma de transformacion digital y tecnologias de la informacion para la ciudad</sub>
 </td>
 <td align="center" width="50%">
-<a href="https://bogota.gov.co/">
+<a href="https://bogota.gov.co/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Gobierno_Abierto-2E8B57?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <br/>
@@ -107,14 +107,14 @@ Desarrollador de software con experiencia en aplicaciones web y moviles full sta
 </tr>
 <tr>
 <td align="center" width="50%">
-<a href="https://bogota.gov.co/toneladas-que-unen">
+<a href="https://bogota.gov.co/toneladas-que-unen" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Toneladas_que_Unen-E85D04?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <br/>
 <sub>Plataforma social de recoleccion y donacion de alimentos</sub>
 </td>
 <td align="center" width="50%">
-<a href="https://bogota.gov.co/servicios/inicio">
+<a href="https://bogota.gov.co/servicios/inicio" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Portal_Servicios_Ciudadano-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <br/>
